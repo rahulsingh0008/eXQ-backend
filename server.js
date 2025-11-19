@@ -122,3 +122,7 @@ server.listen(PORT, () => {
     console.error('Failed to spawn fix script:', e);
   }
 });
+
+// git add .
+// git commit -m "msg"
+// git push
